@@ -1,8 +1,5 @@
-body,
-html {
-  margin: 0;
-  padding: 0;
-  height: 100%;
+body {
+  background-color: #f9f7fe;
   font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -13,7 +10,7 @@ html {
 }
 
 a {
-  color: #5536d1;
+  color: #885df1;
   text-decoration: none;
 }
 
@@ -32,11 +29,11 @@ h1 {
   font-weight: 800;
   font-size: 36px;
   line-height: 1.5;
-  color: #5536d1;
+  color: #272044;
 }
 
 .form-container {
-  background-color: rgb(229, 235, 178);
+  background-color: white;
   margin-bottom: 30px;
   border-radius: 10px;
   box-shadow: 0px 40px 60px rgba (65, 60, 100, 0.08);
@@ -68,7 +65,7 @@ form {
 
 .submit-button {
   margin-left: 10px;
-  background-color: #5536d1;
+  background-color: #885df1;
   color: white;
   border: none;
   width: 150px;
@@ -82,7 +79,7 @@ form {
   background-color: white;
   padding: 20px;
   line-height: 2;
-  border-left: 3px solid #5536d1;
+  border-left: 3px solid #885df1;
   box-shadow: 0px 40px 60px rgba(65, 60, 100, 0.08);
 }
 
@@ -91,7 +88,7 @@ form {
 }
 
 .wisdom strong {
-  color: #5536d1;
+  color: #885df1;
 }
 
 footer {
